@@ -23,7 +23,9 @@ Information on how to **fork a repository** can be found in <https://docs.github
  
 ## If you want to know more about the Anura3D MPM Research Community, members, publications, go back to [Home](https://github.com/Anura3D/Anura3D_OpenSource/wiki)
 
-## Please download GiD software without having the "D" extension (GiD 16.1.8d Windows 64 bits). This is the developers version and does not work properly with Anura 3D
+## Please download GiD software without having the "D" extension (GiD 16.1.8d Windows 64 bits). This is the developers' version and does not work properly with Anura 3D.
+
+
 
 
 
